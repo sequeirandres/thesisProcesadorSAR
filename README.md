@@ -2,5 +2,5 @@
 
 ## gui procesador radar fmcw sar
 <p align="center">
-  <img src="thesisGrabador/imag/GUI_proccess_radar_SAR.png">
+  <img src="thesisProcesadorSAR/imag/GUI_proccess_radar_SAR.png">
 </p>
